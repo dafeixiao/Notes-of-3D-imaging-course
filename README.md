@@ -5,6 +5,12 @@ If you have two cameras fixed at known positions and orientations, and take one 
 Application: measure distances in the universe, triangulation (make use of earth orbit and sun orbit) and standard candles(RR-Lyrea, sepheid star, supernova)
 The error of trangulation (formula?) is inversely proportional to the distance between two cameras and proportional to the distance/depth to be measured. Therefore, for very long distance, triangulation becomes invalid, even though sub orbit is used. In that spectrum, standard candles start functioning. People somehow know the intensity of these candles (physical model and validation through triangulation inrelatively smaller distance) and the attenuation reflects the distance. 
 
+1. shape from silhouettes and shadowgrams
+
+2. space carving
+
+
+3. stereo vision
 
 
 
